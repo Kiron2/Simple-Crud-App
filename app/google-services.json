@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "331399135432",
+    "firebase_url": "https://heatmaploginregister-f070e-default-rtdb.firebaseio.com",
+    "project_id": "heatmaploginregister-f070e",
+    "storage_bucket": "heatmaploginregister-f070e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331399135432:android:b14c3c59d8e3af4e1265fd",
+        "android_client_info": {
+          "package_name": "com.example.heatmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331399135432-mpe259227kpoev4u65q89lqsfsi0gmot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtddjVmah7TFG069N5YtNNn-EijAm35F8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331399135432-mpe259227kpoev4u65q89lqsfsi0gmot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
